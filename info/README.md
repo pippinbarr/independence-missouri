@@ -11,7 +11,7 @@ Independence, Missouri was made for the itch.io [Mystic Western Game Jam](https:
 
 ## Documentation
 * Read the [Process Documentation](../process)
-* Look at the [Code Repository](https://github.com/pippinbarr/) for source code etc.
+* Look at the [Code Repository](https://github.com/pippinbarr/independence-missouri) for source code etc.
 
 ## Press
 Read the [Press Kit](../press) for press information
